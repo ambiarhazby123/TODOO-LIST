@@ -20,9 +20,12 @@ Nama:
 4. Install Dependensi: Jalankan perintah "flutter pub get"
 5. Jalankan Proyek: Ketikan perintah "flutter run"
 ## Screenshot UI dan tampilan ##
-![{E8EA3F03-95BD-4CD6-A093-A0B87B9540D3}](https://github.com/user-attachments/assets/d79c4b63-ddbb-4155-850c-77a3823d3821)
-![{2715BDF9-3963-48CB-9617-736A8059F59C}](https://github.com/user-attachments/assets/d8b92be3-59c4-446e-856b-2251f8277ffa)
-![{F1F6D171-8596-4CBA-A8C1-027D36B90791}](https://github.com/user-attachments/assets/60aba520-8bee-4090-a903-dcd4d88a8a0c)
-![{B2931C9D-9E51-4F92-9E64-E0A164B056A5}](https://github.com/user-attachments/assets/527bcc80-c47b-4022-ae2d-cf29172a5724)
-![{003FD862-F6AC-424A-BE18-F649645A06E4}](https://github.com/user-attachments/assets/ab1f009c-20fa-4d97-9bc8-631e85a32634)
-![{2ACF4C5A-A3E8-4687-95F7-07CF722D5569}](https://github.com/user-attachments/assets/301857a0-6e2a-45b5-9fc9-42bdee1c7151)
+![Image](https://github.com/user-attachments/assets/f130f294-b0c7-4ca8-8760-1a2cdde46b3b)
+
+![Image](https://github.com/user-attachments/assets/39cb017e-6e1f-4662-87e2-c0ef352b9687)
+
+![Image](https://github.com/user-attachments/assets/fb26a85f-04f1-4adb-a398-dc0b975c7fa5)
+
+![Image](https://github.com/user-attachments/assets/9042ba53-4923-4b03-979c-eeb63c038871)
+
+![Image](https://github.com/user-attachments/assets/5a005403-cf43-43d2-b2fe-67cac8dd7cc7)
